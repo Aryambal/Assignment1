@@ -1,0 +1,17 @@
+11:32:47.080 [main] INFO  testCases.TC_PriceComparison - Launching the chrome browser
+11:32:47.268 [main] INFO  testCases.TC_PriceComparison - ----Starting price comparison test-----
+11:32:47.269 [main] INFO  testCases.TC_PriceComparison - Opening Amazon Website
+11:32:57.874 [main] INFO  testCases.TC_PriceComparison - test failed
+11:33:01.797 [main] INFO  testCases.TC_PriceComparison - Closing the browser
+11:35:04.746 [main] INFO  testCases.TC_PriceComparison - Launching the chrome browser
+11:35:04.970 [main] INFO  testCases.TC_PriceComparison - ----Starting price comparison test-----
+11:35:04.971 [main] INFO  testCases.TC_PriceComparison - Opening Amazon Website
+11:35:25.040 [main] INFO  testCases.TC_PriceComparison - Opening Target Website
+11:35:36.667 [main] INFO  testCases.TC_PriceComparison - test passed
+11:35:36.676 [main] INFO  testCases.TC_PriceComparison - ----Finished price comparison test---
+11:35:39.453 [main] INFO  testCases.TC_PriceComparison - Closing the browser
+11:38:28.138 [main] INFO  testCases.TC_PriceComparison - Launching the chrome browser
+11:38:28.348 [main] INFO  testCases.TC_PriceComparison - ----Starting price comparison test-----
+11:38:28.349 [main] INFO  testCases.TC_PriceComparison - Opening Amazon Website
+11:38:38.962 [main] INFO  testCases.TC_PriceComparison - test failed
+11:38:41.853 [main] INFO  testCases.TC_PriceComparison - Closing the browser
